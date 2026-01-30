@@ -1,0 +1,5 @@
+{
+    "token_length": 5,
+    "token_characters": "alphanumeric",
+    "custom_characters": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+}
